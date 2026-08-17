@@ -2,7 +2,7 @@
 
 > **The modern, minimalist productivity timer and habit tracker built exclusively for macOS.**
 
-Track multiple focus sessions simultaneously, schedule recurring goals, track 7-day visual history with progress completion bars, and stay motivated with 255 curated quotes — all from your macOS menu bar.
+Track multiple focus sessions simultaneously, schedule recurring goals, track 7-day visual history with progress completion bars, and stay motivated with 255 curated quotes — all from your macOS menu bar.( Fully coded with AI )
 
 ---
 
