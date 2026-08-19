@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v7
 
       - name: Track Repository Traffic
         uses: jgehrcke/github-repo-stats@v1.4.2
